@@ -21,6 +21,7 @@ const faqs = [
     {question:"Kapan tanggal/tgl pengisian terakhir DRH", answer:"Paling Lambat 21 Februari 2025 selengkapnya di <a href='https://drive.google.com/drive/folders/191HdPTOPDtxQufjKXvzKXpJ0LPC89Imk?usp=sharing'>link berikut</a> "},
     {question:"Pengisian ttd Sehat Jasmani dan Rohani", answer:"tulis tanpa melampirkan gelar penandatangan, sesuai ketentuan"},
     {question:"Harga MCU di RSKD Dadi", answer:"masih 300rb ji kandaku! - byRdwn"},
+    {question:"Urus skck di POLRESTABES walaupun sudah isi di Aplikasi presisi tetap perlu berkas atau fotocopy-nya?", answer:"iye butuh fisik, berupa: 1 lembar fc ktp makassar, 1 lembar fc KK, 1 lembar fc BPJS/KIS, 3 Lembar pas foto ukr 4x6 latar merah, file pdf yang masuk di Email"},
     {question:"Penomoran Surat Kesehatan Jasmani dan Rohani", answer:"digabung! Surat Jasmani dulu, kemudian dipisahkan dengan tanda / dengan surat Rohani setelahnya"},
     {question:"Meterai/ Materai pada DRH", answer:"tidak ada ketentuan khusus, boleh fisik maupun e-meterai"},
     {question:"Upload Surat Kesehatan Jasmani dan Rohani digabung?", answer:"ya digabung, tidak ada ketentuan halaman 1 nya apa, tapi sebaiknya halaman pertama Surat Kesehatan Jasmani"},
