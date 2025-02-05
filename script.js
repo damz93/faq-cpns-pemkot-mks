@@ -18,6 +18,7 @@ const faqs = [
     {question:"Pembuatan SKCK", answer:"POLRES maupun POLDA bisa"},
     {question:"Terkait TPP, Pakaian Dinas, Petunjuk pengisian DRH", answer:"boleh dicek di <a href='https://drive.google.com/drive/folders/191HdPTOPDtxQufjKXvzKXpJ0LPC89Imk?usp=sharing'>link berikut</a> "},
     {question:"Perkiraan TMT atau SPMT", answer:"Belum ada informasi"},
+    {question:"Kapan tanggal/tgl pengisian terakhir DRH", answer:"Paling Lambat 21 Februari 2025 selengkapnya di <a href='https://drive.google.com/drive/folders/191HdPTOPDtxQufjKXvzKXpJ0LPC89Imk?usp=sharing'>link berikut</a> "},
     {question:"Pengisian ttd Sehat Jasmani dan Rohani", answer:"tulis tanpa melampirkan gelar penandatangan, sesuai ketentuan"},
     {question:"Meterai/ Materai pada DRH", answer:"tidak ada ketentuan khusus, boleh fisik maupun e-meterai"},
 ];
