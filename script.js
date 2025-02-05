@@ -21,7 +21,7 @@ const faqs = [
     {question:"Kapan tanggal/tgl pengisian terakhir DRH", answer:"Paling Lambat 21 Februari 2025 selengkapnya di <a href='https://drive.google.com/drive/folders/191HdPTOPDtxQufjKXvzKXpJ0LPC89Imk?usp=sharing'>link berikut</a> "},
     {question:"Pengisian ttd Sehat Jasmani dan Rohani", answer:"tulis tanpa melampirkan gelar penandatangan, sesuai ketentuan"},
     {question:"Harga MCU di RSKD Dadi", answer:"masih 300rb ji kandaku! - byRdwn"},
-    {question:"Penomoran Surat Kesehatan Jasmani dan Rohani", answer:"digabung Surat Jasmani dulu kemudian dipisahkan dengan tanda / dengan surat Rohani"},
+    {question:"Penomoran Surat Kesehatan Jasmani dan Rohani", answer:"digabung! Surat Jasmani dulu, kemudian dipisahkan dengan tanda / dengan surat Rohani setelahnya"},
     {question:"Meterai/ Materai pada DRH", answer:"tidak ada ketentuan khusus, boleh fisik maupun e-meterai"},
 
 ];
