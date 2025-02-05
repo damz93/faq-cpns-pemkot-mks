@@ -10,16 +10,20 @@ document.getElementById("searchInput").addEventListener("input", function () {
     let filteredFaqs = faqs.filter(faq => faq.question.toLowerCase().includes(keyword));
 
     let faqList = document.getElementById("faqList");
+    let suggestionBox = document.getElementById("suggestionBox");
     faqList.innerHTML = ""; // Bersihkan daftar sebelumnya
 
-    filteredFaqs.forEach(faq => {
-        let li = document.createElement("li");
-        li.className = "p-3 bg-gray-200 rounded-md";
-        li.innerHTML = `<strong>${faq.question}</strong><p class="text-sm text-gray-600">${faq.answer}</p>`;
-        faqList.appendChild(li);
-    });
-
-    if (filteredFaqs.length === 0 && keyword !== "") {
-        faqList.innerHTML = `<p class="text-gray-500">Tidak ada hasil yang ditemukan.</p>`;
+    if (filteredFaqs.length > 0) {
+        suggestionBox.classList.add("hidden");
+        filteredFaqs.forEach(faq => {
+            let li = document.createElement("li");
+            li.className = "p-3 bg-gray-200 rounded-md";
+            li.innerHTML = `<strong>${faq.question}</strong><p class="text-sm text-gray-600">${faq.answer}</p>`;
+            faqList.appendChild(li);
+        });
+    } else if (keyword !== "") {
+        suggestionBox.classList.remove("hidden");
+    } else {
+        suggestionBox.classList.add("hidden");
     }
 });
