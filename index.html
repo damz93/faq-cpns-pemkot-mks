@@ -12,9 +12,17 @@
         <input type="text" id="searchInput" placeholder="Cari pertanyaan..." 
             class="w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
         <ul id="faqList" class="mt-4 space-y-2"></ul>
+
+        <!-- Link ke Google Form jika tidak ditemukan -->
+        <div id="suggestionBox" class="hidden mt-4 p-4 bg-yellow-100 rounded-md">
+            <p class="text-gray-700">Tidak menemukan jawaban? Kirimkan pertanyaan Anda:</p>
+            <a href="https://forms.gle/your-google-form-link" target="_blank" 
+                class="mt-2 inline-block w-full text-center bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600">
+                Kirim Pertanyaan ke Google Form
+            </a>
+        </div>
     </div>
 
     <script src="script.js"></script>
-    
 </body>
 </html>
