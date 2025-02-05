@@ -23,6 +23,7 @@ const faqs = [
     {question:"Harga MCU di RSKD Dadi", answer:"masih 300rb ji kandaku! - byRdwn"},
     {question:"Penomoran Surat Kesehatan Jasmani dan Rohani", answer:"digabung! Surat Jasmani dulu, kemudian dipisahkan dengan tanda / dengan surat Rohani setelahnya"},
     {question:"Meterai/ Materai pada DRH", answer:"tidak ada ketentuan khusus, boleh fisik maupun e-meterai"},
+    {question:"Penulisan Gelar dokter", answer:"tidak ada ketentuan khusus, tidak masalah mau tulis ada gelar atau tidak."},
     {question:"apabila ad kesalahan pengisian DRH dan sudah submit", answer:"nanti akan dihubungi oleh verifikator pada saat verifikasi DRH jika ada kesalahan pengisian"},
 ];
 
