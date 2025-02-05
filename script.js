@@ -23,6 +23,7 @@ const faqs = [
     {question:"Harga MCU di RSKD Dadi", answer:"masih 300rb ji kandaku! - byRdwn"},
     {question:"Penomoran Surat Kesehatan Jasmani dan Rohani", answer:"digabung Surat Jasmani dulu kemudian dipisahkan dengan tanda / dengan surat Rohani"},
     {question:"Meterai/ Materai pada DRH", answer:"tidak ada ketentuan khusus, boleh fisik maupun e-meterai"},
+    {question:"Harga MCU di RSKD Dadi", answer:"masih 300rb ji kandaku! - byRdwn"},
 ];
 
 // Urutkan berdasarkan huruf pertama dari jawaban (answer)
