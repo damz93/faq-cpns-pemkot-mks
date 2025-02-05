@@ -21,6 +21,7 @@ const faqs = [
     {question:"Kapan tanggal/tgl pengisian terakhir DRH", answer:"Paling Lambat 21 Februari 2025 selengkapnya di <a href='https://drive.google.com/drive/folders/191HdPTOPDtxQufjKXvzKXpJ0LPC89Imk?usp=sharing'>link berikut</a> "},
     {question:"Pengisian ttd Sehat Jasmani dan Rohani", answer:"tulis tanpa melampirkan gelar penandatangan, sesuai ketentuan"},
     {question:"Meterai/ Materai pada DRH", answer:"tidak ada ketentuan khusus, boleh fisik maupun e-meterai"},
+    {question:"Harga MCU di RSKD Dadi", answer:"masih 300rb ji kandaku! - byRdwn"},
 ];
 
 // Urutkan berdasarkan huruf pertama dari jawaban (answer)
